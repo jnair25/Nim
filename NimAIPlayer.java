@@ -1,5 +1,3 @@
-//This class implements the bot and its winning strategy
-
 public class NimAIPlayer extends NimPlayer implements Testable{
     
     public NimAIPlayer (String username, String givenName, String familyName)  {
@@ -26,13 +24,4 @@ public class NimAIPlayer extends NimPlayer implements Testable{
             return getLeft - 1;
         }
     }
-    
-    //not implemented
-    public String advancedMove(boolean[] available, String lastMove) {
-		// the implementation of the victory
-		// guaranteed strategy designed by you
-		String move = "";
-		
-		return move;
-	}
 }
