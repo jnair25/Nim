@@ -1,12 +1,4 @@
-/*
-	NimAIPlayer.java
-	
-	This class is provided as a skeleton code for the tasks of 
-	Sections 2.4, 2.5 and 2.6 in Project C. Add code (do NOT delete any) to it
-	to finish the tasks. 
-*/
-
-public class NimAIPlayer extends NimPlayer implements Testable{
+public class NimAIPlayer extends NimPlayer {
     
     public NimAIPlayer (String username, String givenName, String familyName)  {
         super(username, givenName, familyName);
@@ -32,13 +24,4 @@ public class NimAIPlayer extends NimPlayer implements Testable{
             return getLeft - 1;
         }
     }
-    
-    //not implemented
-    public String advancedMove(boolean[] available, String lastMove) {
-		// the implementation of the victory
-		// guaranteed strategy designed by you
-		String move = "";
-		
-		return move;
-	}
 }
