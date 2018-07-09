@@ -44,5 +44,8 @@ o For descending order: e.g. rankings desc
 o This initiates a game of nim
 o e.g. startgame 10,3,dspoon,scalvin
 
+* Syntax: exit
+o Exits the system
+
 Upon exiting the program, all player stats and information will be stored under the filename: players.dat. 
 When the program is opened again, it should automatically read the information from that file. 
