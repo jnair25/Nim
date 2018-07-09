@@ -1,10 +1,4 @@
-/*
-	NimAIPlayer.java
-	
-	This class is provided as a skeleton code for the tasks of 
-	Sections 2.4, 2.5 and 2.6 in Project C. Add code (do NOT delete any) to it
-	to finish the tasks. 
-*/
+//This class implements the bot and its winning strategy
 
 public class NimAIPlayer extends NimPlayer implements Testable{
     
