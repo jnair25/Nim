@@ -1,7 +1,7 @@
 /**
  * The Nim program allows multiple people to play the game of Nim
  * 
- * @author Jayakrishna Nair 975655
+ * @author Jayakrishna Nair
  * @version 3.0
  * @since 2018-05-30
  */
