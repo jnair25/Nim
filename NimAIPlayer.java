@@ -1,4 +1,4 @@
-public class NimAIPlayer extends NimPlayer Testable{
+public class NimAIPlayer extends NimPlayer {
     
     public NimAIPlayer (String username, String givenName, String familyName)  {
         super(username, givenName, familyName);
